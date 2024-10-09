@@ -6,8 +6,8 @@ Te presento mi perfil en unas pocas líneas.
     <li>👨‍💻 Soy <b>estudiante de Ingeniería de Sistemas</b></li>
     <li>📍 Ubicado en <b>Pereira, Risaralda, Colombia</b></li>
     <li>🎓 Estudio en la <b>Universidad Libre</b></li>
-    <li>🌱 Actualmente estoy aprendiendo <b>Python, JavaScript, HTML, CSS, C++, AWS</b></li>
-    <li>💬 Puedes preguntarme sobre <b>desarrollo web, bases de datos como SQLite, MySQL, Oracle</b></li>
+    <li>🌱 Actualmente estoy aprendiendo <b>Python, JavaScript, HTML, CSS, C++, php</b></li>
+    <li>💬 Puedes preguntarme sobre <b>desarrollo web, bases de datos como SQLite, MySQL, PostgreSQL</b></li>
    <li>📮 Puedes contactarme directamente en mi WhastApp: <b>+57 3143555407</b></li>
   </ul>
 Soy un estudiante apasionado por la tecnología, en proceso de formación como ingeniero de sistemas. Me motiva aprender nuevas tecnologías y aplicarlas en proyectos que puedan tener un impacto real. Actualmente, estoy enfocado en mejorar mis habilidades en desarrollo web y bases de datos.
@@ -74,10 +74,43 @@ Soy un estudiante apasionado por la tecnología, en proceso de formación como i
     </a>
     <br>C++
 </td>
+<td align="center" width="110">
+    <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://www.php.net/images/logos/php-logo.svg" width="48" height="48" alt="php" />
+    </a>
+    <br>php
+</td>
 
   </tr>
 </table>
 </p>
+<p>
+    <h3><i>Bases de datos:</i></h3>
+    <table>
+    <tr border: none;>
+      <td align="center" width="110">
+        <a href="#%EF%B8%8F-my-tech-stacks-">
+          <img src="https://www.sqlite.org/images/sqlite370_banner.gif" width="48" height="48" alt="SQLite" />
+        </a>
+        <br>Sqlite 3
+      </td>	  
+    </tr>
+    <tr>
+      <td align="center" width="110">
+        <a href="#%EF%B8%8F-my-tech-stacks-">
+          <img src="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png" width="48" height="48" alt="MySQL" />
+        </a>
+        <br>MySQL
+      </td>	  
+      <td align="center" width="110">
+        <a href="#%EF%B8%8F-my-tech-stacks-">
+          <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="48" height="48" alt="PostgreSQL" />
+        </a>
+        <br>PostgreSQL
+      </td>
+    </tr>
+  </table>
+  </p>
 <p>
   <h3><i>Sistemas Operativos:</i></h3>
   <table>
@@ -107,6 +140,7 @@ Soy un estudiante apasionado por la tecnología, en proceso de formación como i
   </tr>
 </table>
 </p>
+
 <p>
   <h3><i>Otras Herramientas:</i></h3>
   <table>
@@ -115,38 +149,8 @@ Soy un estudiante apasionado por la tecnología, en proceso de formación como i
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://github.com/linitio/static-content/blob/main/img/logo/github-logo.png?raw=true" width="48" height="48" alt="GitHub Action" />
       </a>
-      <br>Action
+      <br>GitHub
     </td>	  
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ansible-logo.png?raw=true" width="48" height="48" alt="Ansible" />
-      </a>
-      <br>Ansible
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ceph-logo.png?raw=true" width="48" height="48" alt="Ceph" />
-      </a>
-      <br>Ceph
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/gitlab-logo.png?raw=true" width="48" height="48" alt="GitLab CI/CD" />
-      </a>
-      <br>CI/CD
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/cloud-init-logo.png?raw=true" width="48" height="48" alt="Cloud-Init" />
-      </a>
-      <br>Cloud-Init
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/docker-logo.png?raw=true" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
   </tr>
   <tr>
     <td align="center" width="110">
@@ -157,30 +161,6 @@ Soy un estudiante apasionado por la tecnología, en proceso de formación como i
     </td>	  
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/grafana-logo.png?raw=true" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/influxdb-logo.png?raw=true" width="48" height="48" alt="InfluxDB" />
-      </a>
-      <br>InfluxDB
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/terraform-logo.png?raw=true" width="48" height="48" alt="Terraform" />
-      </a>
-      <br>Terraform
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/vault-logo.png?raw=true" width="48" height="48" alt="Vault" />
-      </a>
-      <br>Vault
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://github.com/linitio/static-content/blob/main/img/logo/visual-studio-logo.png?raw=true" width="48" height="48" alt="Visual Studio Code" />
       </a>
       <br>VS Code
@@ -188,8 +168,33 @@ Soy un estudiante apasionado por la tecnología, en proceso de formación como i
   </tr>
 </table>
 </p>
-
-
+<p>
+    <h3><i>Framework:</i></h3>
+    <table>
+    <tr border: none;>
+      <td align="center" width="110">
+        <a href="#%EF%B8%8F-my-tech-stacks-">
+          <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" width="48" height="48" alt="Django" />
+        </a>
+        <br>Django
+      </td>	  
+    </tr>
+    <tr>
+      <td align="center" width="110">
+        <a href="#%EF%B8%8F-my-tech-stacks-">
+          <img src="https://astro.build/assets/press/logomark-dark.png" width="48" height="48" alt="Astro" />
+        </a>
+        <br>Astro
+      </td>	  
+      <td align="center" width="110">
+        <a href="#%EF%B8%8F-my-tech-stacks-">
+          <img src="https://laravel.com/img/logomark.min.svg" width="48" height="48" alt="Laravel" />
+        </a>
+        <br>Laravel
+      </td>
+    </tr>
+  </table>
+  </p>
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
@@ -209,4 +214,4 @@ Soy un estudiante apasionado por la tecnología, en proceso de formación como i
 
 ------
 
-Última edición: 12/09/2024
+Última edición: 09/10/2024
